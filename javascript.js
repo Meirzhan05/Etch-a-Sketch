@@ -45,7 +45,3 @@ function createGrids(max) {
         container.appendChild(grid);
     }
 }
-
-function resizeGrids(max) {
-
-}

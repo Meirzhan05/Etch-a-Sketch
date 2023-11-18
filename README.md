@@ -4,7 +4,10 @@
 
 This project is a dynamic web application that allows users to interact with a grid layout. Users can change the size of the grid and each cell changes color on mouseover, creating a visually engaging experience.
 
-2. Open `index.html` in your browser.
+## Live Preview
+
+Experience the live version of the project here: [Etch-a-Sketch Live Preview](https://meirzhan05.github.io/Etch-a-Sketch/)
+
 
 ## Usage
 
